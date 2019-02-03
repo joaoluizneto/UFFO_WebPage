@@ -1,3 +1,6 @@
 UFFO_WebPage
 
-isso é um teste
+Informações sobre o projeto:
+
+-> Esse é um repositório para o desenvolvimento do website da equipe UFFO, a equipe de Drones da Universidade Federal Fluminense.
+  
