@@ -27,6 +27,7 @@ h4{
     line-height: 26.4px;
 }
 
+
 body {
     background-color: rgb(134, 134, 134);    
     margin: 0px;
@@ -35,6 +36,7 @@ body {
     background-image: linear-gradient(rgb(0, 8, 36), rgba(3, 156, 226));
 	background-image: url(Imagens/niteroi.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
 
 }
